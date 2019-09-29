@@ -1,6 +1,6 @@
 # 資料結構與演算法
   * linked-list
-  ![https://github.com/pignini/as/blob/master/image/linked-list.png]
+  ![]https://github.com/pignini/as/blob/master/image/linked-list.png
   
  
   * Stack & Queue
