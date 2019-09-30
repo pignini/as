@@ -1,8 +1,10 @@
 # 資料結構與演算法
-  * linked-list
+ * linked-list
+  
   ![](/image/linked-list.png)
  
-  * Stack & Queue
+ * Stack & Queue
+ 
   ![](image/%20%20Stack%20&%20Queue%20.png)
   
 # About me
