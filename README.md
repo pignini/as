@@ -1,7 +1,7 @@
 # 資料結構與演算法
   * linked-list
   
-  
+  ![](/image/linked-list.png)
  
   * Stack & Queue
 
