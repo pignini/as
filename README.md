@@ -17,10 +17,12 @@
 - [week 2](#week-2)
 - [week 3](#week-3)
 - [week 4](#week-4)
-# week 1(9/09-9/13)
+# week 1 (9/09-9/13)
 
-# week 2(9/16-9/20)
+# week 2 (9/16-9/20)
 * linked-list
+
 # week 3(9/23-9/27)
 * Stack & Queue
-# week 4(9/30-10/04)
+
+# week 4 (9/30-10/04)
