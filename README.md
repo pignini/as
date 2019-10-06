@@ -21,8 +21,13 @@
 
 # week 2 (9/16-9/20)
 * linked-list
+### Designed Linked List [題目](https://leetcode.com/problems/design-linked-list/)
 
 # week 3(9/23-9/27)
 * Stack & Queue
+### MinStack [題目](https://leetcode.com/problems/min-stack/)
+
+### Implement Queue using Stacks [題目](https://leetcode.com/problems/implement-queue-using-stacks/)
+
 
 # week 4 (9/30-10/04)
