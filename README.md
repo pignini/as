@@ -22,6 +22,7 @@
 # week 2 (9/16-9/20)
 * linked-list
 ### Designed Linked List [題目](https://leetcode.com/problems/design-linked-list/)
+[解答](https://github.com/pignini/as/blob/master/code/linked-list)
 
 # week 3(9/23-9/27)
 * Stack & Queue
