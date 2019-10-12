@@ -13,7 +13,7 @@
  
  * Quick Sort(快速排序法) 
  
-  ![](image/Quick Sort.png)
+  ![](image/Quick%20Sort.png)
  
 # About me
  * 姓名：朱宣霓
