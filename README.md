@@ -40,5 +40,5 @@
 
 
 # week 4 (9/30-10/04)
-Insertion Sort(插入排序法)
-Quick Sort(快速排序法)
+* Insertion Sort(插入排序法)
+* Quick Sort(快速排序法)
