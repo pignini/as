@@ -9,11 +9,11 @@
   
  * Insertion Sort(插入排序法)
  
- ![](image/Insertion Sort(插入排序法).png)
+  ![](image/Insertion Sort(插入排序法).png)
  
  * Quick Sort(快速排序法) 
  
- ![](image/Quick Sort(快速排序法) .png)
+  ![](image/Quick Sort(快速排序法) .png)
  
 # About me
  * 姓名：朱宣霓
