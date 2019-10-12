@@ -9,7 +9,7 @@
   
  * Insertion Sort(插入排序法)
  
-  ![](image/Insertion Sort.png)
+  ![](/image/Insertion%20Sort.png)
  
  * Quick Sort(快速排序法) 
  
