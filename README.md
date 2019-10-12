@@ -7,6 +7,10 @@
  
   ![](image/%20%20Stack%20&%20Queue%20.png)
   
+ * Insertion Sort(插入排序法)
+ 
+ * Quick Sort(快速排序法) 
+ 
 # About me
  * 姓名：朱宣霓
  * 就讀：東吳大學
@@ -36,3 +40,5 @@
 
 
 # week 4 (9/30-10/04)
+Insertion Sort(插入排序法)
+Quick Sort(快速排序法)
