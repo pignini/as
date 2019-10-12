@@ -8,7 +8,8 @@
   ![](image/%20%20Stack%20&%20Queue%20.png)
   
  * Insertion Sort(插入排序法)
- ![](image/Insertion Sort.png)
+ 
+  ![](image/Insertion Sort.png)
  
  * Quick Sort(快速排序法) 
  
