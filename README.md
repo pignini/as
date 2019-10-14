@@ -28,6 +28,7 @@
 - [week 5](#week-5)
 - [week 6](#week-6)
 - [week 7](#week-7)
+
 # week 1 (9/09-9/13)
 
 # week 2 (9/16-9/20)
