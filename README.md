@@ -44,6 +44,8 @@
 
 [解答](https://github.com/pignini/as/blob/master/code/Implement%20Queue%20using%20Stacks.py)
 
+![](/image/Implement%20Queue%20using%20Stacks.png)
+
 # week 4 (9/30-10/04)
 * Insertion Sort(插入排序法)
 * Quick Sort(快速排序法)
