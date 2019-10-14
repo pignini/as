@@ -48,4 +48,5 @@
 * Quick Sort(快速排序法)
 ### Sort an Array
 [題目](https://leetcode.com/problems/sort-an-array/submissions/)
+
 [解答](https://github.com/pignini/as/blob/master/code/Sort%20an%20Array.py)
