@@ -47,4 +47,5 @@
 * Insertion Sort(插入排序法)
 * Quick Sort(快速排序法)
 [題目](https://leetcode.com/problems/sort-an-array/submissions/)
-[解答」(https://github.com/pignini/as/blob/master/code/Sort%20an%20Array.py)
+
+[解答](https://github.com/pignini/as/blob/master/code/Sort%20an%20Array.py)
