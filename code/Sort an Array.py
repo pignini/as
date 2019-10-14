@@ -4,8 +4,8 @@ class Solution:
           return nums
       else:
           pivot = nums[0]
-          less = [i for i in nums[1:] if i <= pivot]
-          more = [i for i in nums[1:] if i > pivot]
+          less = [i for i in nums[1:] if i < pivot]
+          more = [i for i in nums[1:] if i >= pivot]
           return self.sortArray(less) + [pivot] + self.sortArray(more)
     
 
