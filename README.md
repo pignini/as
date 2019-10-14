@@ -42,6 +42,7 @@
 ### Implement Queue using Stacks 
 [題目](https://leetcode.com/problems/implement-queue-using-stacks/)
 
+[解答](https://github.com/pignini/as/blob/master/code/Implement%20Queue%20using%20Stacks.py)
 
 # week 4 (9/30-10/04)
 * Insertion Sort(插入排序法)
