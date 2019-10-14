@@ -29,14 +29,17 @@
 - [week 6](#week-6)
 - [week 7](#week-7)
 
-# week 1 (9/09-9/13)
+# week 1 
+(9/09-9/13)
 
-# week 2 (9/16-9/20)
+# week 2 
+(9/16-9/20)
 * linked-list
 ### Designed Linked List  
 [題目](https://leetcode.com/problems/design-linked-list/)
 
-# week 3(9/23-9/27)
+# week 3
+(9/23-9/27)
 * Stack & Queue
 ### MinStack 
 [題目](https://leetcode.com/problems/min-stack/)
@@ -48,7 +51,8 @@
 
 ![](/image/Implement%20Queue%20using%20Stacks.png)
 
-# week 4 (9/30-10/04)
+# week 4 
+(9/30-10/04)
 * Insertion Sort(插入排序法)
 * Quick Sort(快速排序法)
 ### Sort an Array
@@ -58,8 +62,11 @@
 
 ![](/image/sort%20an%20array.png)
 
-# week 5 (10/07-10/11)
+# week 5 
+(10/07-10/11)
 
-# week 6 (10/14-10/18)
+# week 6 
+(10/14-10/18)
 
 # week 7 
+(10/21-10/25)
