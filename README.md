@@ -50,3 +50,5 @@
 [題目](https://leetcode.com/problems/sort-an-array/submissions/)
 
 [解答](https://github.com/pignini/as/blob/master/code/Sort%20an%20Array.py)
+
+![](/image/sort%20an%20array.png)
