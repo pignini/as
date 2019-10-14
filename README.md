@@ -25,6 +25,9 @@
 - [week 2](#week-2)
 - [week 3](#week-3)
 - [week 4](#week-4)
+- [week 5](#week-5)
+- [week 6](#week-6)
+- [week 7](#week-7)
 # week 1 (9/09-9/13)
 
 # week 2 (9/16-9/20)
@@ -53,3 +56,9 @@
 [解答](https://github.com/pignini/as/blob/master/code/Sort%20an%20Array.py)
 
 ![](/image/sort%20an%20array.png)
+
+# week 5 (10/07-10/11)
+
+# week 6 (10/14-10/18)
+
+# week 7 (10/21-10/25)
