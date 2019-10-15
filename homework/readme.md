@@ -4,5 +4,5 @@
 
  * Quick Sort(快速排序法) 
  
-  ![](image/Quick%20Sort.png)
+  ![](/image/Quick%20Sort.png)
  
