@@ -66,6 +66,8 @@
 (10/07-10/11)
 雙十連假
 
+[作業1]https://github.com/pignini/as/tree/master/homework
+
 # week 6 
 (10/14-10/18)
 
