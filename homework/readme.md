@@ -5,7 +5,7 @@
  
  ![](/image/quick%20sort流程圖.jpg)
 
- * Quick Sort(快速排序法) 
+# 什麼是Quick Sort？(快速排序法) 
  
   ![](/image/Quick%20Sort.png)
  
