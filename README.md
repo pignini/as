@@ -14,7 +14,11 @@
  * Quick Sort(快速排序法) 
  
   ![](image/Quick%20Sort.png)
+  
+ * Heap Sort(堆積排序法)
  
+ ![]()
+
 # About me
  * 姓名：朱宣霓
  * 就讀：東吳大學
@@ -70,6 +74,7 @@
 
 # week 6 
 (10/14-10/18)
+ * Heap Sort(堆積排序法)
 
 # week 7 
 (10/21-10/25)
