@@ -17,8 +17,9 @@
   
  * Heap Sort(堆積排序法)
  
-  ![](image/heap%20sort.png)
-
+ ![](image/heap%20sort.png)
+ ![](image/Heap%20Sort2.jpg)
+ 
 # About me
  * 姓名：朱宣霓
  * 就讀：東吳大學
