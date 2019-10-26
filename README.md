@@ -20,6 +20,8 @@
  ![](image/heap%20sort.png)
  ![](image/Heap%20Sort2.jpg)
  
+ * Merge Sort
+ 
 # About me
  * 姓名：朱宣霓
  * 就讀：東吳大學
@@ -33,6 +35,8 @@
 - [week 5](#week-5)
 - [week 6](#week-6)
 - [week 7](#week-7)
+- [week 8](#week-8)
+- [week 9](#week-9)
 
 # week 1 
 (9/09-9/13)
@@ -79,3 +83,8 @@
 
 # week 7 
 (10/21-10/25)
+* Merge Sort
+
+# week 8
+
+# week 9
