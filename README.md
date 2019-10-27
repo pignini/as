@@ -22,7 +22,7 @@
  
  * Merge Sort
  
-![](image/Merge%20Sort(合併排序法).png
+![](image/Merge%20Sort(合併排序法).png)
  
 # About me
  * 姓名：朱宣霓
