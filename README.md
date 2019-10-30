@@ -39,6 +39,7 @@
 - [week 7](#week-7)
 - [week 8](#week-8)
 - [week 9](#week-9)
+- [week 10](#week-10)
 
 # week 1 
 (9/09-9/13)
@@ -92,3 +93,5 @@
 
 # week 9
 (11/04-11/08)
+
+# week 10
