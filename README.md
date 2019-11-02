@@ -23,6 +23,11 @@
  * Merge Sort
  
 ![](image/Merge%20Sort(合併排序法).png)
+
+* Binary Tree(二元樹)
+
+![](
+![](
  
 # About me
  * 姓名：朱宣霓
@@ -90,6 +95,7 @@
 
 # week 8
 (10/28-11/01)
+* Binary Tree(二元樹)
 
 # week 9
 (11/04-11/08)
