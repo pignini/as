@@ -26,8 +26,8 @@
 
 * Binary Tree(二元樹)
 
-![](/image/%20%20%20%20%20%20%20Binary%20Tree(二元樹).png)
-![](
+![](image/%20%20%20%20%20%20%20Binary%20Tree(二元樹).png)
+![](image/%20%20%20%20%20%20%20Binary%20Tree(二元樹)2.png)
  
 # About me
  * 姓名：朱宣霓
