@@ -26,7 +26,7 @@
 
 * Binary Tree(二元樹)
 
-![](
+![](/image/%20%20%20%20%20%20%20Binary%20Tree(二元樹).png)
 ![](
  
 # About me
