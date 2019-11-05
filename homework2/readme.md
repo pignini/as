@@ -5,6 +5,7 @@
 [流程圖](https://github.com/pignini/as/blob/master/homework2/流程圖)
 
  * 什麼是heap sort?
+ 
 Heap Sort可以分為Min Heap與Max Heap兩種。兩者用在排序上，Min Heap是「由大到小」而Max Heap則是「由小到大」。
 • 最小堆積樹(Min Heap)：樹根(二元樹的最頂端)一定是最小值
 將樹根(最小值)與最後一個節點調換，將最小值取出，並加入已排序數列，重複步驟，將整棵樹重新調整為最小堆積樹
@@ -13,6 +14,7 @@ Heap Sort可以分為Min Heap與Max Heap兩種。兩者用在排序上，Min Hea
 
 
  * 什麼是merge sort?
+ 
 把問題先拆解成子問題，逐一處理子問題後，將子問題的結果合併。
 1.將陣列分割直到只有一個元素。
 2.開始兩兩合併，合併時同時進行排序。
