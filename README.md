@@ -83,7 +83,7 @@
 (10/07-10/11)
 雙十連假
 
-[作業1](https://github.com/pignini/as/tree/master/homework)
+[作業1](https://github.com/pignini/as/tree/master/homework1)
 
 # week 6 
 (10/14-10/18)
@@ -100,4 +100,9 @@
 # week 9
 (11/04-11/08)
 
+[作業2](https://github.com/pignini/as/tree/master/homework2)
+
 # week 10
+
+
+# week 11
