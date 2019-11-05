@@ -1,15 +1,4 @@
-# 作業2
- * 成果
- 
-[heapsort程式碼](https://github.com/pignini/as/blob/master/homework2/heap_sort_06170129.py)
-
-[mergesort程式碼]()
-
- * 流程圖
- 
-[流程圖](https://github.com/pignini/as/blob/master/homework2/流程圖)
-
- * 什麼是heap sort?
+* 什麼是heap sort?
  
   Heap Sort可以分為Min Heap與Max Heap兩種。兩者用在排序上，Min Heap是「由大到小」而Max Heap則是「由小到大」。
 
