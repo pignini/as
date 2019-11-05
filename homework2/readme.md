@@ -1,6 +1,9 @@
 # 作業2
  * 成果
-[程式碼]()
+ 
+[heapsort程式碼](https://github.com/pignini/as/blob/master/homework2/heap_sort_06170129.py)
+[mergesort程式碼]()
+
  * 流程圖
 [流程圖](https://github.com/pignini/as/blob/master/homework2/流程圖)
 
