@@ -514,3 +514,7 @@ print (a)
 ```python
 
 ```
+
+# 流程圖
+![](/image/linked-list.png)
+
