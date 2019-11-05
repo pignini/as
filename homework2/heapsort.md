@@ -516,5 +516,5 @@ print (a)
 ```
 
 # 流程圖
-![](/image/linked-list.png)
+![](image/heap%20sort流程圖.jpg)
 
