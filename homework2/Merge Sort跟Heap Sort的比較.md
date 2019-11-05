@@ -9,7 +9,9 @@ Heap Sort可以分為Min Heap與Max Heap兩種。兩者用在排序上，Min Hea
 將樹根(最大值)與最後一個節點調換，將最大值取出，並加入已排序數列，重複步驟，將整棵樹重新調整為最大堆積樹
   
 最佳狀況時間複雜度：n log n
+
 平均狀況時間複雜度：n log n
+
 最差狀況時間複雜度：n log n
 
 ## merge sort
@@ -23,5 +25,7 @@ Heap Sort可以分為Min Heap與Max Heap兩種。兩者用在排序上，Min Hea
 3.重複2的動作直到全部合併完成。
 
 最佳狀況時間複雜度：n log n
+
 平均狀況時間複雜度：n log n
+
 最差狀況時間複雜度：n log n
