@@ -3,28 +3,34 @@
   
   ![](/image/linked-list.png)
  
+ ----------------------------------------
  * Stack & Queue
  
   ![](image/%20%20Stack%20&%20Queue%20.png)
   
+ ----------------------------------------
  * Insertion Sort(插入排序法)
  
   ![](/image/Insertion%20Sort.png)
  
+ ----------------------------------------
  * Quick Sort(快速排序法) 
  
   ![](image/Quick%20Sort.png)
   
+ ----------------------------------------
  * Heap Sort(堆積排序法)
  
  ![](image/heap%20sort.png)
  ![](image/Heap%20Sort2.jpg)
  
+ ----------------------------------------
  * Merge Sort
  
 ![](image/Merge%20Sort(合併排序法).png)
 
-* Binary Tree(二元樹)
+----------------------------------------
+ * Binary Tree(二元樹)
 
 ![](image/%20%20%20%20%20%20%20Binary%20Tree(二元樹).png)
 ![](image/%20%20%20%20%20%20%20Binary%20Tree(二元樹)2.png)
