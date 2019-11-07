@@ -14,6 +14,10 @@ Heap Sort可以分為Min Heap與Max Heap兩種。兩者用在排序上，Min Hea
 
 最差狀況時間複雜度：n log n
 
+額外空間:只需一額外記錄空間。
+
+為不穩定排序
+
 ----------------------------------------
 
 ## merge sort
@@ -31,3 +35,10 @@ Heap Sort可以分為Min Heap與Max Heap兩種。兩者用在排序上，Min Hea
 平均狀況時間複雜度：n log n
 
 最差狀況時間複雜度：n log n
+
+額外空間:需n個額外記錄空間。
+
+為穩定排序
+
+
+##Heap sort是比merge sort還要來的快速
