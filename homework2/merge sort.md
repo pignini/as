@@ -588,5 +588,5 @@ print (a)
 
 
 # 流程圖
- ![](/image/heap%20sort流程圖.jpg)
+ ![](/image/merge%20sort流程圖.jpg)
 
