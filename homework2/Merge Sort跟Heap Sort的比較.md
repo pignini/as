@@ -39,7 +39,3 @@ Heap Sort可以分為Min Heap與Max Heap兩種。兩者用在排序上，Min Hea
 額外空間:需n個額外記錄空間。
 
 為穩定排序
-
-----------------------------------------
-
-## Heap sort是比merge sort還要來的快速
