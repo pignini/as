@@ -38,7 +38,8 @@
  * Binary Search Tree
  
 ![](/image/Binary%20Search%20Tree.png)
-![](/image/Binary%20Search%20Tree.png)
+![](/image/Binary%20Search%20Tree2.png)
+
 ----------------------------------------
  
 # About me
