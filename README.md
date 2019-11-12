@@ -34,6 +34,9 @@
 
 ![](image/%20%20%20%20%20%20%20Binary%20Tree(二元樹).png)
 ![](image/%20%20%20%20%20%20%20Binary%20Tree(二元樹)2.png)
+
+ * Binary Search Tree
+----------------------------------------
  
 # About me
  * 姓名：朱宣霓
@@ -105,10 +108,10 @@
 
 # week 9
 (11/04-11/08)
-
+* Binary Search Tree
 [作業2](https://github.com/pignini/as/tree/master/homework2)
 
 # week 10
-
+* Binary Search Tree
 
 # week 11
