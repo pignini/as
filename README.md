@@ -36,6 +36,9 @@
 ![](image/%20%20%20%20%20%20%20Binary%20Tree(二元樹)2.png)
 
  * Binary Search Tree
+ 
+![](/image/Binary%20Search%20Tree.png)
+![](/image/Binary%20Search%20Tree.png)
 ----------------------------------------
  
 # About me
