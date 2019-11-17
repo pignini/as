@@ -71,7 +71,7 @@
 
 [解答](https://github.com/pignini/as/blob/master/code/LinkedList.py)
 
-![](/image/707.%20Design%20Linked%20List.png)
+![](/image/Design%20Linked%20List.png)
 
 # week 3
 (9/23-9/27)
