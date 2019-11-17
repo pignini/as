@@ -56,7 +56,9 @@ class MyLinkedList:
             self.size += 1
 
     def deleteAtIndex(self, index: int):
-        if index < 0 or index >= self.size:
+        if index < 0 :
+            return
+        if index > self.size-1:
             return
         l = self.head
         if index == 0:
