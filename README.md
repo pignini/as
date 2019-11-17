@@ -69,7 +69,9 @@
 ### Designed Linked List  
 [題目](https://leetcode.com/problems/design-linked-list/)
 
-[解答]()
+[解答](https://github.com/pignini/as/blob/master/code/LinkedList.py)
+
+![]()
 
 # week 3
 (9/23-9/27)
