@@ -3,7 +3,7 @@ class TreeNode(object):
         self.val = x
         self.left = None
         self.right = None
-        
+      
 class Solution(object):
     def insert(self, root, val):
         # root.left = None
@@ -72,6 +72,7 @@ class Solution(object):
                     return self.search(root.right,target)
             else:
                 return root
+        
     def modify(self, root, target, new_val):
         if target == new_val:
             return root
