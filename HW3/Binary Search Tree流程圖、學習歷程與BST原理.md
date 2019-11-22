@@ -1910,3 +1910,23 @@ print(root.left.right.val)
 ```python
 
 ```
+
+# insert流程圖
+ ![](/image/insert.jpg)
+# delete流程圖
+ ![](/image/delete.jpg)
+# search流程圖
+ ![](/image/search.jpg)
+# modify流程圖
+ ![](/image/modify.jpg)
+
+
+# BST原理
+是基於二元樹的一種延伸，可以利用在搜索、排序和提供資料集合基本結構，發展其他資料結構。
+* 定義：
+
+   1.小於等於根節點 ( root )的放左邊節點 ( left node )
+   
+   2.大於根節點 ( root )的放右邊節點 ( right node ) 
+   
+   3.任意節點 ( node ) 的左、右子樹也分別符合 BST 的定義
