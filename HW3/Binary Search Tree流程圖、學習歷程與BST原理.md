@@ -6,6 +6,12 @@
 # https://www.geeksforgeeks.org/binary-search-tree-set-2-delete/
 # https://github.com/jay940059/-/blob/master/HW3/binary_search_tree_06170221.py 的modify
 
+# BST原理
+是基於二元樹的一種延伸，可以利用在搜索、排序和提供資料集合基本結構，發展其他資料結構。
+定義：
+1.小於根節點 ( root )的放左邊節點 ( left node )
+2.大於根節點 ( root )的放右邊節點 ( right node ) 
+3.任意節點 ( node ) 的左、右子樹也分別符合 BST 的定義
 
 ```python
 class Node(object):
