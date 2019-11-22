@@ -1916,11 +1916,11 @@ print(root.left.right.val)
 ```python
 
 ```
-# 流程圖
- ![](.jpg)
-# 流程圖
- ![](.jpg)
-# 流程圖
- ![](.jpg)
-# 流程圖
- ![](.jpg)
+# insert流程圖
+ ![](/image/insert.jpg)
+# delete流程圖
+ ![](/image/delete.jpg)
+# search流程圖
+ ![](/image/search.jpg)
+# modify流程圖
+ ![](/image/modify.jpg)
