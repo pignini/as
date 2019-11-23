@@ -51,7 +51,7 @@
   * Hash Table
   
  ![](/image/Hash%20Table.png)
-  ![](/image/Hash%20Table2.png)
+ ![](/image/Hash%20Table%202.png)
  
  ----------------------------------------
 # About me
