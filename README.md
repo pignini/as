@@ -42,7 +42,11 @@
 ![](/image/Binary%20Search%20Tree2.png)
 
 ----------------------------------------
+ * Red Black Tree
  
+ 
+ 
+ ----------------------------------------
 # About me
  * 姓名：朱宣霓
  * 就讀：東吳大學
@@ -59,6 +63,9 @@
 - [week 8](#week-8)
 - [week 9](#week-9)
 - [week 10](#week-10)
+- [week 11](#week-11)
+- [week 12](#week-12)
+- [week 13](#week-13)
 
 # week 1 
 (9/09-9/13)
@@ -123,5 +130,11 @@
 
 # week 10
 * Binary Search Tree
+(11/11-11/15)
 
 # week 11
+* Red Black Tree
+(11/18-11/22)
+
+# week 12
+(11/25-11/29)
