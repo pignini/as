@@ -54,6 +54,10 @@
  ![](/image/Hash%20Table%202.png)
  
  ----------------------------------------
+  *  Breadth-First Search
+ ![](/image/Hash%20Table%202.png) 
+ 
+ ----------------------------------------
 # About me
  * 姓名：朱宣霓
  * 就讀：東吳大學
@@ -147,3 +151,4 @@
 
 # week 12
 (11/25-11/29)
+*  Breadth-First Search
