@@ -55,7 +55,7 @@
  
  ----------------------------------------
   *  Breadth-First Search
- ![](/image/Hash%20Table%202.png) 
+ ![](/master/image/Breadth-First%20Search.png) 
  
  ----------------------------------------
 # About me
