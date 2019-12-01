@@ -55,7 +55,7 @@
  
  ----------------------------------------
   *  Breadth-First Search
- ![](/master/image/Breadth-First%20Search.png) 
+ ![](/image/Breadth-First%20Search.png) 
  
  ----------------------------------------
 # About me
