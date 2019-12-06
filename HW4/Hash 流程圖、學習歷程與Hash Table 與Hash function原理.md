@@ -1330,5 +1330,5 @@ class MyHashSet:
 ```
 
 
-# insert流程圖
- ![](/image/.jpg)
+# 流程圖
+ ![](/image/hash%20table.jpg)
