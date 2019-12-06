@@ -149,6 +149,11 @@
 * Hash Table
 * Red Black Tree
 
+[題目](https://leetcode.com/problems/design-hashset/submissions/)
+
+[解答](https://github.com/pignini/as/blob/master/code/Sort%20an%20Array.py)
+
+![]()
 
 # week 12
 (11/25-11/29)
