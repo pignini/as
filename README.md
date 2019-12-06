@@ -153,7 +153,7 @@
 
 [解答](https://github.com/pignini/as/blob/master/code/Sort%20an%20Array.py)
 
-![]()
+![](/image/Design%20HashSet.png)
 
 # week 12
 (11/25-11/29)
