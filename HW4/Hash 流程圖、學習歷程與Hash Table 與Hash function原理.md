@@ -1328,3 +1328,7 @@ class MyHashSet:
             else:                         #跑到node的值是key時停下，假如此時node不存在就return False              
                 return False  
 ```
+
+
+# insert流程圖
+ ![](/image/.jpg)
