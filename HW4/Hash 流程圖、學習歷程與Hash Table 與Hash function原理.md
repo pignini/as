@@ -1,6 +1,16 @@
 
 # HW4 hash table
+
+ 
+#  參考資料:
+http://linebylinecode.com/2017/11/24/how-to-implement-a-hash-table-in-python
+
+https://codereview.stackexchange.com/questions/118110/python-hash-table-implementation
+
+https://www.youtube.com/watch?v=zHi5v78W1f0&t=298s
+
  ----------------------------------------
+  
 ### Hash Function
 
 是一種輸入字串，然後輸出數字的函數。也就是「將字串對應至數字」。
@@ -23,15 +33,7 @@
  * 雜湊函數知道陣列的大小，而且只傳回有效的索引值。
 透過雜湊函數與陣列的結合，可得到一個Hash Table資料結構。
  ----------------------------------------
-
-#  參考資料:
-http://linebylinecode.com/2017/11/24/how-to-implement-a-hash-table-in-python
-
-https://codereview.stackexchange.com/questions/118110/python-hash-table-implementation
-
-https://www.youtube.com/watch?v=zHi5v78W1f0&t=298s
-
-
+ 
 ```python
 class Node(object):
     def __init__(self, data):
