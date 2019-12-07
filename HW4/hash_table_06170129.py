@@ -15,14 +15,13 @@ class MyHashSet:
         h.update(key.encode("utf-8"))
         h.hexdigest()
         x=int(h.hexdigest(),16)
-        y = x % self.capacity
-        return y
+        return x
         
     def add(self, key):
-        index = self.hash_function(key)
+        index = self.hash_function(key) % self.capacity
         node = self.data[index]
         if node == None:
-            self.data[index] = ListNode(key)
+            self.data[index] = ListNode(self.hash_function(key))
             return
         else:
             if self.contains(key) is True:
@@ -30,15 +29,15 @@ class MyHashSet:
             else:
                 while node.next is not None:
                     node = node.next  
-                node.next = ListNode(key) 
+                node.next = ListNode(self.hash_function(key)) 
            
     def remove(self, key):  
-        index = self.hash_function(key)
+        index = self.hash_function(key) % self.capacity
         node = self.data[index]  
         if node == None:
             return
         else:
-            while node is not None and node.val != key:
+            while node is not None and node.val != self.hash_function(key):
                 node = node.next
             if node is not None:
                 node.val = None
@@ -48,12 +47,12 @@ class MyHashSet:
                 return   
         
     def contains(self, key):
-        index = self.hash_function(key)
+        index = self.hash_function(key) % self.capacity
         node = self.data[index]  
         if node == None:
             return False
         else:
-            while node is not None and node.val != key:
+            while node is not None and node.val != self.hash_function(key) :
                 node = node.next
             if node is not None:
                 return True
