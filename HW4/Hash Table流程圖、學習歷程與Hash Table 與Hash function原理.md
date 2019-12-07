@@ -6,7 +6,30 @@ http://linebylinecode.com/2017/11/24/how-to-implement-a-hash-table-in-python
 https://codereview.stackexchange.com/questions/118110/python-hash-table-implementation
 
 https://www.youtube.com/watch?v=zHi5v78W1f0&t=298s
+ ----------------------------------------
+  
+### Hash Function
 
+是一種輸入字串，然後輸出數字的函數。也就是「將字串對應至數字」。
+
+密碼學的觀點：資料進行編碼，以求隱蔽，保護資料。
+
+例： “Apple” → Hash Function → 3
+
+這次是使用MD5來加密。
+
+ ----------------------------------------
+### Hash Table
+
+使用Hash Function，將丟入的值對應到符合Table大小中，Table的意思像是在array裡創很多條的linked list，找到對應的值丟進去。
+
+ ----------------------------------------
+### 兩者的作用原理：
+ * 將一個特定的名稱對應於相同的數字，每次輸入Apple，都會得到相同的數字(例如 3)。
+ * 將不同的字串對應至不同的值，有一點小小的變化值都會差很多。例： Apple 對應至3，Milk 對應至 4
+ * 雜湊函數知道陣列的大小，而且只傳回有效的索引值。
+透過雜湊函數與陣列的結合，可得到一個Hash Table資料結構。
+ ----------------------------------------
 
 ```python
 class Node(object):
@@ -1442,3 +1465,7 @@ class MyHashSet:
             else:                         #跑到node的值是x時停下，假如此時node不存在就return False              
                 return False  
 ```
+
+
+# 流程圖
+ ![](/image/hash%20table.jpg)
