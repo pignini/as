@@ -59,6 +59,14 @@
  ![](/image/Breadth-First%20Search.png) 
  
  ----------------------------------------
+  *  Depth-First Search
+    
+ ![](/image/Depth-First%20Search.png) 
+ 
+ ----------------------------------------
+  
+  
+  
 # About me
  * 姓名：朱宣霓
  * 就讀：東吳大學
@@ -78,6 +86,9 @@
 - [week 11](#week-11)
 - [week 12](#week-12)
 - [week 13](#week-13)
+- [week 14](#week-14)
+- [week 15](#week-15)
+- [week 16](#week-16)
 
 # week 1 
 (9/09-9/13)
@@ -160,3 +171,17 @@
 *  Breadth-First Search
 
 # week 13
+(12/02-12/06)
+*  Depth-First Search
+
+# week 13
+(12/09-12/13)
+
+# week 14
+(12/16-12/20)
+
+# week 15
+(12/23-12/27)
+
+# week 16
+(12/30-01/03)
