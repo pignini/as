@@ -56,7 +56,7 @@
  ----------------------------------------
   *  Breadth-First Search
   
- ![](/image/Breadth-First%20Search.png) 
+ ![](/image/Breadth-First%20Search1.png) 
  
  ----------------------------------------
   *  Depth-First Search
