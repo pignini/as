@@ -64,7 +64,10 @@
  ![](/image/Depth-First%20Search.png) 
  
  ----------------------------------------
-  
+ ## Minimum Spanning Tree
+ 
+ ![](/image/MST1.png)
+ ![](/image/MST2.png)
   
   
 # About me
@@ -176,6 +179,7 @@
 
 # week 13
 (12/09-12/13)
+*  Minimum Spanning Tree
 
 # week 14
 (12/16-12/20)
