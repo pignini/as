@@ -893,3 +893,6 @@ print(g.DFS(1) )
 ```python
 
 ```
+
+# 流程圖
+ ![](/image/hash%20table.jpg)
