@@ -895,4 +895,4 @@ print(g.DFS(1) )
 ```
 
 # 流程圖
- ![](/image/hash%20table.jpg)
+ ![](/image/BFS與DFS流程圖.jpg)
