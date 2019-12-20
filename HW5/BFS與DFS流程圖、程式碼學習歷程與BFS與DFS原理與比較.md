@@ -56,9 +56,6 @@ Queue：排隊，不能插隊。一次只能執行一個需求，需要用 Queue
 * Pop：把front最前面所指向的資料從Queue中移除
 
 ####  DFS
-
-DFS
-
 利用stack
 
 Stack：「最晚進入Stack」的資料會「最先被取出」，「最早進入Stack」的資料則「最晚被取出」
