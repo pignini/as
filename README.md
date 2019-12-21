@@ -68,8 +68,15 @@
  
  ![](/image/MST1.png)
  ![](/image/MST2.png)
-  
-  
+ 
+ ----------------------------------------
+ ## Shortest Path  
+ 
+ ![](/image/Shortest%20Path.png)
+ ![](/image/Shortest%20Path1.png) 
+ 
+ ----------------------------------------
+ 
 # About me
  * 姓名：朱宣霓
  * 就讀：東吳大學
@@ -183,6 +190,7 @@
 
 # week 14
 (12/16-12/20)
+*  Shortest Path
 
 # week 15
 (12/23-12/27)
