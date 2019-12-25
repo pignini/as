@@ -195,9 +195,9 @@
 ### Implement Stack using Queues 
 [題目](https://leetcode.com/problems/implement-stack-using-queues/)
 
-[解答](https://github.com/pignini/as/blob/master/code/Implement%20Stacks%20using%20Queue.py)
+[解答](https://github.com/pignini/as/blob/master/code/Implement%20Stack%20using%20Queues)
 
-![](/image/Implement%20Stacks%20using%20Queue.png)
+![](/image/Implement%20Stack%20using%20Queues.png)
 
 # week 15
 (12/23-12/27)
