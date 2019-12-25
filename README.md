@@ -192,6 +192,13 @@
 (12/16-12/20)
 *  Shortest Path
 
+### Implement Stack using Queues 
+[題目](https://leetcode.com/problems/implement-stack-using-queues/)
+
+[解答](https://github.com/pignini/as/blob/master/code/Implement%20Stacks%20using%20Queue.py)
+
+![](/image/Implement%20Stacks%20using%20Queue.png)
+
 # week 15
 (12/23-12/27)
 
