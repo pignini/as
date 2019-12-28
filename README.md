@@ -141,7 +141,7 @@
 (10/07-10/11)
 雙十連假
 
-[作業1](https://github.com/pignini/as/tree/master/homework1)
+[作業1](https://github.com/pignini/as/tree/master/HW1)
 
 # week 6 
 (10/14-10/18)
@@ -151,6 +151,8 @@
 (10/21-10/25)
 * Merge Sort
 
+[作業2](https://github.com/pignini/as/tree/master/HW2)
+
 # week 8
 (10/28-11/01)
 * Binary Tree(二元樹)
@@ -159,11 +161,12 @@
 (11/04-11/08)
 * Binary Search Tree
 
-[作業2](https://github.com/pignini/as/tree/master/homework2)
+[作業3](https://github.com/pignini/as/tree/master/HW3)
 
 # week 10
 (11/11-11/15)
 * Binary Search Tree
+
 
 # week 11
 (11/18-11/22)
@@ -176,6 +179,8 @@
 
 ![](/image/Design%20HashSet.png)
 
+[作業4](https://github.com/pignini/as/tree/master/HW4)
+
 # week 12
 (11/25-11/29)
 *  Breadth-First Search
@@ -184,6 +189,8 @@
 (12/02-12/06)
 *  Depth-First Search
 
+[作業5](https://github.com/pignini/as/tree/master/HW5)
+
 # week 13
 (12/09-12/13)
 *  Minimum Spanning Tree
@@ -191,6 +198,8 @@
 # week 14
 (12/16-12/20)
 *  Shortest Path
+
+[作業6](https://github.com/pignini/as/tree/master/HW6)
 
 ### Implement Stack using Queues 
 [題目](https://leetcode.com/problems/implement-stack-using-queues/)
