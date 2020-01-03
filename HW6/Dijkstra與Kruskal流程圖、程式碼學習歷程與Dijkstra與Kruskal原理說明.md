@@ -860,3 +860,4 @@ print('Kruskal',g.Kruskal())
 
 
 ## Dijkstra與Kruskal流程圖
+ ![](/image/Dijkstra.jpg)
