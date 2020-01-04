@@ -791,7 +791,8 @@ class Graph():
             
         seen=[] 
         distance={s:0}  
-    
+        result={}
+        
         for i in nodes:
             distance[i]=self.graph[s][i]
     
@@ -807,7 +808,11 @@ class Graph():
                         self.graph[s][d]=new
                         distance[d]=new
                         seen.append(d)
-        return distance
+
+        for x in range(self.V):
+            result[str(x)]=distance[x]
+
+        return result
     
     def Kruskal(self):
         seen=[]
