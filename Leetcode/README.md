@@ -6,6 +6,13 @@ Python程式設計是資料科學的基本技能。為了熟悉Python的語法�
 
 CodeSignal跟Leetcode都是充滿程式題目的平台，兩者的差別在Leetcode的題目比較艱難，針對想進階的人使用。
 
+# 總題目整理
+- [所有上課時程與內容](###Designed Linked List  )
+- [所有上課時程與內容](###Implement Queue using Stacks )
+- [所有上課時程與內容](###Sort an Array)
+- [所有上課時程與內容](###Design HashSet)
+- [所有上課時程與內容](###Implement Stack using Queues )
+
 ### Designed Linked List  
 [題目](https://leetcode.com/problems/design-linked-list/)
 
