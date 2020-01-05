@@ -121,47 +121,57 @@ def是定義一個函數，return可以把我要的答案丟出來
 ![](/image/2.png)
 
 ### 解答：
+題目要判斷西元幾年會是幾世紀，對於year = 1905，輸出應為CenturyFromYear（year）= 20;year = 1700，輸出應為CenturyFromYear（年）= 17
 
-
-#### 答案：
+#### 答案：int((year-1)/100)+1
 
 ## 3
 
 ![](/image/3.png)
 
 ### 解答：
+題目是判斷假如整個字串相反是否跟原本一樣
 
+[::-1]是顺序相反的意思，假如a=[1,2,3,4,5] b=a[::-1]，b就會是[5, 4, 3, 2, 1]
 
-#### 答案：
+#### 答案：if(inputString==inputString[::-1])：
 
 ## 4
 
 ![](/image/4.png)
 
 ### 解答：
+題目是乘旁邊的數值比出最大的數，字串 = [3，6，-2，-5，7，3]，輸出應為neighborElementsProduct（inputArray）= 21，7乘以3產生最大的數值。
 
-
-
-
-#### 答案：
+#### 答案：    
+a=inputArray[0]
+    b=a*inputArray[1]
+    for i in inputArray[1::]:
+        if a*i>b:
+            b=a*i
+        a=i
+    else:
+            return b
 
 ## 5
 
 ![](/image/5.png)
 
 ### 解答：
+題目是若n = 2，輸出應為shapeArea（n）= 5;n = 3，輸出應為shapeArea（n）= 13
 
+計算是應為n*n+(n-1)*(n-1)
 
-#### 答案：
+#### 答案：return (n*n+(n-1)*(n-1))
 
 ## 6
 
 ![](/image/6.png)
 
 ### 解答：
+題目是要找出缺得值，數列= [6，2，3，8]，輸出應為makeArrayConsecutive2（statues）= 3，缺少4、5和7，三個值。
 
+所以是最大值減最小值再減掉字串長度再加1
 
-
-
-#### 答案：
+#### 答案： return max(statues)-min(statues)-len(statues)+1
 
