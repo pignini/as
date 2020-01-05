@@ -14,13 +14,20 @@
 # 期末心得
 
 # 總檔案整理
+
+### 課程
+
 - [所有上課時程與內容](#上課內容)
+
+### 自學
 
  * [Leetcode自學內容](https://github.com/pignini/as/tree/master/Leetcode/)
 
  * [Codesignal自學內容](https://github.com/pignini/as/tree/master/Codesignal/)
 
  * [CS50自學內容](https://github.com/pignini/as/tree/master/CS50/)
+ 
+ ### 作業
 
  * [作業1程式碼與學習歷程](https://github.com/pignini/as/tree/master/HW1)
 
