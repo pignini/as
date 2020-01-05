@@ -19,7 +19,7 @@ CodeSignal跟Leetcode都是充滿程式題目的平台，兩者的差別在CodeS
 
 # 第一部分 Python Meet Python
 
-# 01
+## 01
 ![](/image/01.png)
 
 ### 解答：
@@ -29,7 +29,7 @@ res = [False]*2 會變成 res = [False, False]，而 if xs是如果xs是存在�
 
 答案為[True, False]
 
-# 02
+## 02
 
 ![](/image/02.png)
 
@@ -38,7 +38,7 @@ res = [False]*2 會變成 res = [False, False]，而 if xs是如果xs是存在�
 
 答案選1
 
-# 03
+## 03
 
 ![](/image/03.png)
 
@@ -47,7 +47,7 @@ res = [False]*2 會變成 res = [False, False]，而 if xs是如果xs是存在�
 
 答案選a == not b
 
-# 04
+## 04
 
 ![](/image/04.png)
 
@@ -58,7 +58,7 @@ Python中的(//)將取到的商的小數位無條件取『小』一位整數(也
 
 答案選x=15,y=-4
 
-# 05
+## 05
 
 ![](/image/05.png)
 
@@ -67,7 +67,7 @@ Python中的(//)將取到的商的小數位無條件取『小』一位整數(也
 
 答案：n.bit_length()
 
-# 06
+## 06
 
 ![](/image/06.png)
 
@@ -78,7 +78,7 @@ n%1==0是為了判斷n是不是整數，n除以1的餘數為0的話就表示n是
 
 答案：n%1==0
 
-# 07
+## 07
 
 ![](/image/07.png)
 
