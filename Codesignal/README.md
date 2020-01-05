@@ -4,3 +4,31 @@
 Python程式設計是資料科學的基本技能。為了熟悉Python的語法以及喚醒之前學習Python的記憶，老師推薦了CodeSignal以及Leetcode。
 
 CodeSignal跟Leetcode都是充滿程式題目的平台，兩者的差別在CodeSignal的題目比較簡單一些，針對初學者使用。
+
+# 總題目整理
+- []()
+- []( )
+- []()
+- []()
+- []( )
+
+#  
+
+![](/image/)
+
+
+# 
+
+![](/image/)
+
+# 
+
+![](/image/)
+
+# 
+
+![](/image/)
+
+# 
+
+![](/image/)
