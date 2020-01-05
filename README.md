@@ -39,7 +39,7 @@
 
 
 ### Designed Linked List  
-[內容](https://github.com/pignini/as/tree/master/Leetcode)
+[內容](https://github.com/pignini/as/tree/master/Leetcode/)
 
 # week 3
 (9/23-9/27)
@@ -53,6 +53,8 @@
  ----------------------------------------
 
 ### Implement Queue using Stacks 
+
+[內容](https://github.com/pignini/as/tree/master/Leetcode/)
 
 # week 4 
 (9/30-10/04)
@@ -73,6 +75,7 @@
 
 ### Sort an Array
 
+[內容](https://github.com/pignini/as/tree/master/Leetcode/)
 
 # week 5 
 (10/07-10/11)
@@ -157,6 +160,8 @@
  
 ### Design HashSet
 
+[內容](https://github.com/pignini/as/tree/master/Leetcode/)
+
 # week 12
 (11/25-11/29)
 *  Breadth-First Search
@@ -208,6 +213,7 @@
 
 ### Implement Stack using Queues 
 
+[內容](https://github.com/pignini/as/tree/master/Leetcode/)
 
 # week 15
 (12/23-12/27)
