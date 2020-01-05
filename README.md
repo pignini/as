@@ -39,7 +39,7 @@
 
  * [作業6程式碼與學習歷程](https://github.com/pignini/as/tree/master/HW6)
 
- ###心得
+ ### 心得
  
  - [期末心得](#期末心得)
 
