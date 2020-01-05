@@ -52,6 +52,7 @@
 - [week 15](#week-15)
 - [week 16](#week-16)
 - [week 17](#week-17)
+- [week 18](#week-18)
 
 # week 1 
 (9/09-9/13)
@@ -206,7 +207,7 @@
 
 [作業5](https://github.com/pignini/as/tree/master/HW5)
 
-# week 13
+# week 14
 (12/09-12/13)
 *  Minimum Spanning Tree
 
@@ -217,7 +218,7 @@
  
  ----------------------------------------
  
-# week 14
+# week 15
 (12/16-12/20)
 *  Shortest Path
 
@@ -233,18 +234,18 @@
 
 [內容](https://github.com/pignini/as/tree/master/Leetcode/)
 
-# week 15
+# week 16
 (12/23-12/27)
 
 *  期末考複習
 
 [作業6](https://github.com/pignini/as/tree/master/HW6)
 
-# week 16
+# week 17
 (12/30-01/03)
 
 *  期末考
 
-# week 17
+# week 18
 (01/06-01/10)
 * 停課
