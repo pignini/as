@@ -31,14 +31,14 @@
 * linked-list
  
  ----------------------------------------
- ## linked-list
   
   ![](/image/linked-list.png)
  
  ----------------------------------------
 
 
-### Designed Linked List  
+#### Designed Linked List  
+
 [內容](https://github.com/pignini/as/tree/master/Leetcode/)
 
 # week 3
@@ -46,13 +46,12 @@
 * Stack & Queue
 
  ----------------------------------------
- ## Stack & Queue
  
   ![](image/%20%20Stack%20&%20Queue%20.png)
   
  ----------------------------------------
 
-### Implement Queue using Stacks 
+#### Implement Queue using Stacks 
 
 [內容](https://github.com/pignini/as/tree/master/Leetcode/)
 
@@ -62,18 +61,16 @@
 * Quick Sort(快速排序法)
 
  ----------------------------------------
- ## Insertion Sort(插入排序法)
- 
+
   ![](/image/Insertion%20Sort.png)
  
  ----------------------------------------
- ## Quick Sort(快速排序法) 
  
   ![](image/Quick%20Sort.png)
   
  ----------------------------------------
 
-### Sort an Array
+#### Sort an Array
 
 [內容](https://github.com/pignini/as/tree/master/Leetcode/)
 
@@ -88,7 +85,6 @@
  * Heap Sort(堆積排序法)
  
  ----------------------------------------
- ## Heap Sort(堆積排序法)
  
  ![](image/heap%20sort.png)
  ![](image/Heap%20Sort2.jpg)
@@ -100,7 +96,6 @@
 * Merge Sort
 
 ----------------------------------------
- ## Merge Sort
  
 ![](image/Merge%20Sort(合併排序法).png)
 
@@ -113,7 +108,6 @@
 * Binary Tree(二元樹)
 
 ----------------------------------------
- ## Binary Tree(二元樹)
 
 ![](image/%20%20%20%20%20%20%20Binary%20Tree(二元樹).png)
 ![](image/%20%20%20%20%20%20%20Binary%20Tree(二元樹)2.png)
@@ -125,7 +119,6 @@
 * Binary Search Tree
 
 ----------------------------------------
- ## Binary Search Tree
  
 ![](/image/Binary%20Search%20Tree.png)
 ![](/image/Binary%20Search%20Tree2.png)
@@ -140,7 +133,6 @@
 * Red Black Tree
 
 ----------------------------------------
- ## Red Black Tree
  
 ![](/image/red%20black%20tree.png) 
  
@@ -151,14 +143,13 @@
 * Hash Table
 
  ----------------------------------------
- ## Hash Table
   
  ![](/image/Hash%20Table.png)
  ![](/image/Hash%20Table%202.png)
  
  ---------------------------------------- 
  
-### Design HashSet
+#### Design HashSet
 
 [內容](https://github.com/pignini/as/tree/master/Leetcode/)
 
@@ -167,7 +158,6 @@
 *  Breadth-First Search
  
  ----------------------------------------
- ## Breadth-First Search
   
  ![](/image/Breadth-First%20Search1.png) 
  
@@ -178,7 +168,6 @@
 *  Depth-First Search
 
  ----------------------------------------
- ## Depth-First Search
     
  ![](/image/Depth-First%20Search.png) 
  
@@ -191,7 +180,6 @@
 *  Minimum Spanning Tree
 
  ----------------------------------------
- ## Minimum Spanning Tree
  
  ![](/image/MST1.png)
  ![](/image/MST2.png)
@@ -203,7 +191,6 @@
 *  Shortest Path
 
  ----------------------------------------
- ## Shortest Path  
  
  ![](/image/Shortest%20Path.png)
  ![](/image/Shortest%20Path1.png) 
@@ -211,7 +198,7 @@
  ----------------------------------------
 
 
-### Implement Stack using Queues 
+#### Implement Stack using Queues 
 
 [內容](https://github.com/pignini/as/tree/master/Leetcode/)
 
