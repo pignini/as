@@ -143,15 +143,7 @@ def是定義一個函數，return可以把我要的答案丟出來
 ### 解答：
 題目是乘旁邊的數值比出最大的數，字串 = [3，6，-2，-5，7，3]，輸出應為neighborElementsProduct（inputArray）= 21，7乘以3產生最大的數值。
 
-#### 答案：    
-a=inputArray[0]
-    b=a*inputArray[1]
-    for i in inputArray[1::]:
-        if a*i>b:
-            b=a*i
-        a=i
-    else:
-            return b
+#### 答案：    a=inputArray[0]b=a*inputArray[1] for i in inputArray[1::]: if a*i>b: b=a*ia=i else: return b
 
 ## 5
 
