@@ -13,7 +13,10 @@ CodeSignal跟Leetcode都是充滿程式題目的平台，兩者的差別在Leetc
 - [#705_Design HashSet](#Design-HashSet)
 - [#225_Implement Stack using Queues](#Implement-Stack-using-Queues )
 
-# Designed Linked List  
+# Designed Linked List 
+
+解題時間：week 2(9/16-9/20)
+
 [題目](https://leetcode.com/problems/design-linked-list/)
 
 [解答](https://github.com/pignini/as/blob/master/Leetcode/707%23_Design%20Linked%20List_06170129.py)
@@ -21,6 +24,9 @@ CodeSignal跟Leetcode都是充滿程式題目的平台，兩者的差別在Leetc
 ![](/image/Design%20Linked%20List.png)
 
 # Implement Queue using Stacks 
+
+解題時間：week 3(9/23-9/27)
+
 [題目](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 [解答](https://github.com/pignini/as/blob/master/Leetcode/232%23_Implement%20Queue%20using%20Stacks_06170129.py)
@@ -28,6 +34,9 @@ CodeSignal跟Leetcode都是充滿程式題目的平台，兩者的差別在Leetc
 ![](/image/Implement%20Queue%20using%20Stacks.png)
 
 # Sort an Array
+
+解題時間：week 4(9/30-10/04)
+
 [題目](https://leetcode.com/problems/sort-an-array/submissions/)
 
 [解答](https://github.com/pignini/as/blob/master/Leetcode/912%23_Sort%20an%20Array_06170129.py)
@@ -35,6 +44,9 @@ CodeSignal跟Leetcode都是充滿程式題目的平台，兩者的差別在Leetc
 ![](/image/sort%20an%20array.png)
 
 # Design HashSet
+
+解題時間：week 11(11/18-11/22)
+
 [題目](https://leetcode.com/problems/design-hashset/submissions/)
 
 [解答](https://github.com/pignini/as/blob/master/Leetcode/705%23_Design%20HashSet_06170129.py)
@@ -42,6 +54,9 @@ CodeSignal跟Leetcode都是充滿程式題目的平台，兩者的差別在Leetc
 ![](/image/Design%20HashSet.png)
 
 # Implement Stack using Queues 
+
+解題時間：week 15(12/16-12/20)
+
 [題目](https://leetcode.com/problems/implement-stack-using-queues/)
 
 [解答](https://github.com/pignini/as/blob/master/Leetcode/225%23_Implement%20Stack%20using%20Queues_06170129.py)
