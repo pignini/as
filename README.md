@@ -11,6 +11,29 @@
  * 系級：巨資三A
  * 擅長程式: python（其實也沒有擅長，只是稍微比較知道一點點）
 
+# 總檔案整理
+- [所有上課時程與內容](#上課內容)
+
+ * [Leetcode自學內容](https://github.com/pignini/as/tree/master/Leetcode/)
+
+ * [Codesignal自學內容](https://github.com/pignini/as/tree/master/Codesignal/)
+
+ * [CS50自學內容](https://github.com/pignini/as/tree/master/CS50/)
+
+ * [作業1程式碼與學習歷程](https://github.com/pignini/as/tree/master/HW1)
+
+ * [作業2程式碼與學習歷程](https://github.com/pignini/as/tree/master/HW2)
+
+ * [作業3程式碼與學習歷程](https://github.com/pignini/as/tree/master/HW3)
+
+ * [作業4程式碼與學習歷程](https://github.com/pignini/as/tree/master/HW4)
+
+ * [作業5程式碼與學習歷程](https://github.com/pignini/as/tree/master/HW5)
+
+ * [作業6程式碼與學習歷程](https://github.com/pignini/as/tree/master/HW6)
+
+
+
 # 上課內容
 - [week 1](#week-1)
 - [week 2](#week-2)
