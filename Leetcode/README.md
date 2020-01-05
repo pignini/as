@@ -1,4 +1,10 @@
-# Leetcode學習
+# Leetcode
+
+學習程式有很多方法，像許多網站可以教我們一些技巧。有些網站會建立教育計劃，以便我們可以按主題學習，有效率且能有明確進度的進步，然而許多這類網站都需要收費，而且無法教我們如何應用這些概念。
+
+Python程式設計是資料科學的基本技能。為了熟悉Python的語法以及喚醒之前學習Python的記憶，老師推薦了CodeSignal以及Leetcode。
+
+CodeSignal跟Leetcode都是充滿程式題目的平台，兩者的差別在Leetcode的題目比較艱難，針對想進階的人使用。
 
 ### Designed Linked List  
 [題目](https://leetcode.com/problems/design-linked-list/)
