@@ -39,7 +39,7 @@
 
 
 ### Designed Linked List  
-[內容](https://github.com/pignini/as/blob/master/LeetCode)
+[內容](https://github.com/pignini/as/tree/master/Leetcode)
 
 # week 3
 (9/23-9/27)
@@ -211,10 +211,12 @@
 
 # week 15
 (12/23-12/27)
+
 *  期末考複習
+
 [作業6](https://github.com/pignini/as/tree/master/HW6)
 
 # week 16
 (12/30-01/03)
+
 *  期末考
-(12/30-01/03)
