@@ -19,7 +19,9 @@
 
 ### 自學
 
- * [Leetcode自學內容](https://github.com/pignini/as/tree/master/Leetcode/)
+ * [Leetcode](https://github.com/pignini/as/tree/master/Leetcode/)
+ 
+     -[自學內容](https://github.com/pignini/as/blob/master/Leetcode/README.md) 
  
      -[Designed Linked List](https://github.com/pignini/as/blob/master/Leetcode/707_Design%20Linked%20List_06170129.py)
 
