@@ -20,8 +20,21 @@
 ### 自學
 
  * [Leetcode自學內容](https://github.com/pignini/as/tree/master/Leetcode/)
+ 
+ -[Designed Linked List](https://github.com/pignini/as/blob/master/Leetcode/707_Design%20Linked%20List_06170129.py)
 
- * [Codesignal自學內容](https://github.com/pignini/as/tree/master/Codesignal/)
+ -[Implement Queue using Stacks](https://github.com/pignini/as/blob/master/Leetcode/232_Implement%20Queue%20using%20Stacks_06170129.py)
+
+ -[Sort an Array](https://github.com/pignini/as/blob/master/Leetcode/912_Sort%20an%20Array_06170129.py)
+
+ -[Design HashSet](https://github.com/pignini/as/blob/master/Leetcode/705_Design%20HashSet_06170129.py)
+
+ -[Implement Stack using Queues](https://github.com/pignini/as/blob/master/Leetcode/225_Implement%20Stack%20using%20Queues_06170129.py)
+
+   
+ * [Codesignal](https://github.com/pignini/as/tree/master/Codesignal/)
+ 
+  -[自學內容](https://github.com/pignini/as/blob/master/Codesignal/README.md) 
 
  * [CS50自學內容](https://github.com/pignini/as/tree/master/CS50/)
  
