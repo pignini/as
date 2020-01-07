@@ -21,36 +21,60 @@
 
  * [Leetcode自學內容](https://github.com/pignini/as/tree/master/Leetcode/)
  
- -[Designed Linked List](https://github.com/pignini/as/blob/master/Leetcode/707_Design%20Linked%20List_06170129.py)
+     -[Designed Linked List](https://github.com/pignini/as/blob/master/Leetcode/707_Design%20Linked%20List_06170129.py)
 
- -[Implement Queue using Stacks](https://github.com/pignini/as/blob/master/Leetcode/232_Implement%20Queue%20using%20Stacks_06170129.py)
+     -[Implement Queue using Stacks](https://github.com/pignini/as/blob/master/Leetcode/232_Implement%20Queue%20using%20Stacks_06170129.py)
 
- -[Sort an Array](https://github.com/pignini/as/blob/master/Leetcode/912_Sort%20an%20Array_06170129.py)
+     -[Sort an Array](https://github.com/pignini/as/blob/master/Leetcode/912_Sort%20an%20Array_06170129.py)
 
- -[Design HashSet](https://github.com/pignini/as/blob/master/Leetcode/705_Design%20HashSet_06170129.py)
+     -[Design HashSet](https://github.com/pignini/as/blob/master/Leetcode/705_Design%20HashSet_06170129.py)
 
- -[Implement Stack using Queues](https://github.com/pignini/as/blob/master/Leetcode/225_Implement%20Stack%20using%20Queues_06170129.py)
+     -[Implement Stack using Queues](https://github.com/pignini/as/blob/master/Leetcode/225_Implement%20Stack%20using%20Queues_06170129.py)
 
    
  * [Codesignal](https://github.com/pignini/as/tree/master/Codesignal/)
  
-  -[自學內容](https://github.com/pignini/as/blob/master/Codesignal/README.md) 
+      -[自學內容](https://github.com/pignini/as/blob/master/Codesignal/README.md) 
 
  * [CS50自學內容](https://github.com/pignini/as/tree/master/CS50/)
  
  ### 作業
 
- * [作業1程式碼與學習歷程](https://github.com/pignini/as/tree/master/HW1)
+ * [作業1](https://github.com/pignini/as/tree/master/HW1)
+     
+      -[作業1程式碼](https://github.com/pignini/as/tree/master/HW1)
+      
+      -[作業1學習歷程](https://github.com/pignini/as/tree/master/HW1)
+      
+ * [作業2](https://github.com/pignini/as/tree/master/HW2)
+ 
+      -[作業2程式碼](https://github.com/pignini/as/tree/master/HW1)
+      -[作業2學習歷程](https://github.com/pignini/as/tree/master/HW1)
+     
 
- * [作業2程式碼與學習歷程](https://github.com/pignini/as/tree/master/HW2)
+ * [作業3](https://github.com/pignini/as/tree/master/HW3)
+ 
+      -[作業3程式碼](https://github.com/pignini/as/tree/master/HW1)
+      
+      -[作業3學習歷程](https://github.com/pignini/as/tree/master/HW1)
 
- * [作業3程式碼與學習歷程](https://github.com/pignini/as/tree/master/HW3)
+ * [作業4](https://github.com/pignini/as/tree/master/HW4)
+ 
+      -[作業4程式碼](https://github.com/pignini/as/tree/master/HW1)
+      
+      -[作業4學習歷程](https://github.com/pignini/as/tree/master/HW1)
 
- * [作業4程式碼與學習歷程](https://github.com/pignini/as/tree/master/HW4)
+ * [作業5](https://github.com/pignini/as/tree/master/HW5)
+ 
+      -[作業5程式碼](https://github.com/pignini/as/tree/master/HW1)
+      
+      -[作業5學習歷程](https://github.com/pignini/as/tree/master/HW1)
 
- * [作業5程式碼與學習歷程](https://github.com/pignini/as/tree/master/HW5)
-
- * [作業6程式碼與學習歷程](https://github.com/pignini/as/tree/master/HW6)
+ * [作業6](https://github.com/pignini/as/tree/master/HW6)
+ 
+      -[作業6程式碼](https://github.com/pignini/as/tree/master/HW1)
+      
+      -[作業6學習歷程](https://github.com/pignini/as/tree/master/HW1)
 
  ### 心得
  
