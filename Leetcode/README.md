@@ -29,7 +29,7 @@ CodeSignal跟Leetcode都是充滿程式題目的平台，兩者的差別在Leetc
 
 [題目](https://leetcode.com/problems/implement-queue-using-stacks/)
 
-[解答](https://github.com/pignini/as/blob/master/Leetcode/225_Implement%20Queue%20using%20Stacks_06170129.py)
+[解答](https://github.com/pignini/as/blob/master/Leetcode/232_Implement%20Queue%20using%20Stacks_06170129.py)
 
 ![](/image/Implement%20Queue%20using%20Stacks.png)
 
