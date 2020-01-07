@@ -42,39 +42,47 @@
 
  * [作業1](https://github.com/pignini/as/tree/master/HW1)
      
-      -[作業1程式碼](https://github.com/pignini/as/tree/master/HW1)
+      -[Quick Sort程式碼](https://github.com/pignini/as/blob/master/HW1/quicksort.py)
       
-      -[作業1學習歷程](https://github.com/pignini/as/tree/master/HW1)
+      -[Quick Sort學習歷程](https://github.com/pignini/as/blob/master/HW1/Quick%20%20Sort學習歷程.md)
       
  * [作業2](https://github.com/pignini/as/tree/master/HW2)
  
-      -[作業2程式碼](https://github.com/pignini/as/tree/master/HW1)
-      -[作業2學習歷程](https://github.com/pignini/as/tree/master/HW1)
-     
-
+      -[Heap Sort程式碼](https://github.com/pignini/as/blob/master/HW2/heap_sort_06170129.py)
+      
+      -[Heap Sort學習歷程](https://github.com/pignini/as/blob/master/HW2/heap%20%20sort.md)
+      
+      -[Merge Sort程式碼](https://github.com/pignini/as/blob/master/HW2/merge_sort_06170129.py)
+      
+      -[Merge Sort學習歷程](https://github.com/pignini/as/blob/master/HW2/merge%20%20%20%20sort.md)   
+      
+      -[Merge Sort跟Heap Sort的比較](https://github.com/pignini/as/blob/master/HW2/Merge%20Sort跟Heap%20Sort的比較.md)    
+      
  * [作業3](https://github.com/pignini/as/tree/master/HW3)
  
-      -[作業3程式碼](https://github.com/pignini/as/tree/master/HW1)
+      -[Binary Search Tree程式碼](https://github.com/pignini/as/blob/master/HW3/binary_search_tree_06170129.py)
       
-      -[作業3學習歷程](https://github.com/pignini/as/tree/master/HW1)
+      -[Binary Search Tree流程圖、學習歷程與BST原理](https://github.com/pignini/as/blob/master/HW3/Binary%20Search%20Tree流程圖、學習歷程與BST原理.md)
+      
+      -[Binary Search Tree新增、刪除、查詢、修改功能說明](https://github.com/pignini/as/blob/master/HW3/Binary%20Search%20Tree新增、刪除、查詢、修改功能說明.md)
 
  * [作業4](https://github.com/pignini/as/tree/master/HW4)
  
-      -[作業4程式碼](https://github.com/pignini/as/tree/master/HW1)
+      -[Hash Table程式碼](https://github.com/pignini/as/blob/master/HW4/hash_table_06170129.py)
       
-      -[作業4學習歷程](https://github.com/pignini/as/tree/master/HW1)
+      -[Hash Table流程圖、學習歷程與Hash Table 與Hash function原理](https://github.com/pignini/as/blob/master/HW4/Hash%20Table流程圖、學習歷程與Hash%20Table%20與Hash%20function原理.md)
 
  * [作業5](https://github.com/pignini/as/tree/master/HW5)
  
-      -[作業5程式碼](https://github.com/pignini/as/tree/master/HW1)
+      -[BFS與DFS程式碼](https://github.com/pignini/as/blob/master/HW5/BFS_06170129.py)
       
-      -[作業5學習歷程](https://github.com/pignini/as/tree/master/HW1)
+      -[BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較](https://github.com/pignini/as/blob/master/HW5/BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較.md)
 
  * [作業6](https://github.com/pignini/as/tree/master/HW6)
  
-      -[作業6程式碼](https://github.com/pignini/as/tree/master/HW1)
+      -[Dijkstra與Kruskal程式碼](https://github.com/pignini/as/blob/master/HW6/Dijkstra_06170129.py)
       
-      -[作業6學習歷程](https://github.com/pignini/as/tree/master/HW1)
+      -[Dijkstra與Kruskal流程圖、程式碼學習歷程與Dijkstra與Kruskal原理說明](https://github.com/pignini/as/blob/master/HW6/Dijkstra與Kruskal流程圖、程式碼學習歷程與Dijkstra與Kruskal原理說明.md)
 
  ### 心得
  
