@@ -38,7 +38,9 @@
  
       -[自學內容](https://github.com/pignini/as/blob/master/Codesignal/README.md) 
 
- * [CS50自學內容](https://github.com/pignini/as/tree/master/CS50/)
+ * [CS50](https://github.com/pignini/as/tree/master/CS50/)
+ 
+      -[自學內容](https://github.com/pignini/as/blob/master/CS50/README.md) 
  
  ### 作業
 
