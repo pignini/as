@@ -122,7 +122,7 @@
  
 #### Designed Linked List  
 
-[內容](https://github.com/pignini/as/tree/master/Leetcode/)
+[內容](https://github.com/pignini/as/blob/master/Leetcode/707_Design%20Linked%20List_06170129.py)
 
  ----------------------------------------
   
@@ -137,7 +137,7 @@
 
 #### Implement Queue using Stacks 
 
-[內容](https://github.com/pignini/as/tree/master/Leetcode/)
+[內容](https://github.com/pignini/as/blob/master/Leetcode/232_Implement%20Queue%20using%20Stacks_06170129.py)
 
  ----------------------------------------
  
@@ -153,7 +153,7 @@
 
 #### Sort an Array
 
-[內容](https://github.com/pignini/as/tree/master/Leetcode/)
+[內容](https://github.com/pignini/as/blob/master/Leetcode/912_Sort%20an%20Array_06170129.py)
 
  ----------------------------------------
 
@@ -238,7 +238,7 @@
 
 #### Design HashSet
 
-[內容](https://github.com/pignini/as/tree/master/Leetcode/)
+[內容](https://github.com/pignini/as/blob/master/Leetcode/705_Design%20HashSet_06170129.py)
 
  ----------------------------------------
   
@@ -286,7 +286,7 @@
 
 #### Implement Stack using Queues 
 
-[內容](https://github.com/pignini/as/tree/master/Leetcode/)
+[內容](https://github.com/pignini/as/blob/master/Leetcode/225_Implement%20Stack%20using%20Queues_06170129.py)
 
  ----------------------------------------
  
