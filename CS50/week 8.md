@@ -52,7 +52,7 @@ Heap Sort可以分為Min Heap與Max Heap兩種。兩者用在排序上，Min Hea
 * 定義
 最廣義的樹，樹上的node之child數沒有限制，因此每個node可以有多個child。
 
-## Binary Tree(二元樹)
+### Binary Tree(二元樹)
 * 定義
 
 限制node最多有兩個child，子節點有左右之分，稱兩個child pointer為left child和right child。樹的樹根稱為Root，樹的「分支」為Branch。
@@ -80,7 +80,7 @@ Heap Sort可以分為Min Heap與Max Heap兩種。兩者用在排序上，Min Hea
 
 同時滿足完滿二元樹的條件，並且所有的節點都在同一個階層。
 
-## Binary Search Tree(BST，二元搜尋樹)
+### Binary Search Tree(BST，二元搜尋樹)
 * 定義
 
  是基於二元樹的一種延伸，可以利用在搜索、排序和提供資料集合基本結構，發展其他資料結構。
