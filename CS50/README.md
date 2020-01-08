@@ -4,10 +4,20 @@
 # 課程整理
 [課程網站](http://cs50.tv/2013/fall/#about,lectures)
 - [week 3](#week-3)
+
+   -[筆記](https://github.com/pignini/as/blob/master/CS50/week%203)
 - [week 4](#week-4)
+
+   -[筆記](https://github.com/pignini/as/blob/master/CS50/week%204)
 - [week 5](#week-5)
+
+   -[筆記](https://github.com/pignini/as/blob/master/CS50/week%205)
 - [week 7](#week-7)
+
+   -[筆記](https://github.com/pignini/as/blob/master/CS50/week%207)
 - [week 8](#week-8)
+
+   -[筆記](https://github.com/pignini/as/blob/master/CS50/week%208)
 
 # week 3 
 
