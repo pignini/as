@@ -236,6 +236,8 @@
 (11/18-11/22)
 * Hash Table
 
+[作業4](https://github.com/pignini/as/tree/master/HW4)
+
 #### Design HashSet
 
 [內容](https://github.com/pignini/as/blob/master/Leetcode/705_Design%20HashSet_06170129.py)
