@@ -13,45 +13,45 @@
 
 [Monday](https://www.youtube.com/watch?v=xqhcVALTw54)
 
-### 筆記：
+* ### 筆記：
 
 
 [Wednesday](https://www.youtube.com/watch?v=YxgI7ll4Xtg)
 
-### 筆記：
+* ### 筆記：
 
 # week 4 
 [Monday](https://www.youtube.com/watch?v=8IZ9r5kmS3Y)
 
-### 筆記：
+* ### 筆記：
 
 [Wednesday](https://www.youtube.com/watch?v=lw1U7CvmjoU)
 
-### 筆記：
+* ### 筆記：
 
 # week 5 
 [Monday](http://www.youtube.com/watch?v=IEuvKVjw2oM)
 
-### 筆記：
+* ### 筆記：
 
 [Wednesday](http://www.youtube.com/watch?v=atBMLJdSKBo)
 
-### 筆記：
+* ### 筆記：
 
 # week 7 
 [Monday](http://www.youtube.com/watch?v=RUAsmwYC2mc)
 
-### 筆記：
+* ### 筆記：
 
 [Wednesday](http://www.youtube.com/watch?v=QWnZpgZKOoc)
 
-### 筆記：
+* ### 筆記：
 
 # week 8
 [Monday](https://www.youtube.com/watch?v=9qvt6MwBKZQ)
 
-### 筆記：
+* ### 筆記：
 
 [Wednesday](http://www.youtube.com/watch?v=ihmHDZKOkA8)
 
-### 筆記：
+* ### 筆記：
