@@ -42,15 +42,15 @@
  
       -[自學內容](https://github.com/pignini/as/blob/master/CS50/README.md) 
       
-      -[week 3筆記](https://github.com/pignini/as/blob/master/CS50/week%203)
+      -[week 3筆記](https://github.com/pignini/as/blob/master/CS50/week%203.md)
 
-      -[week 4筆記](https://github.com/pignini/as/blob/master/CS50/week%204)
+      -[week 4筆記](https://github.com/pignini/as/blob/master/CS50/week%204.md)
 
-      -[week 5筆記](https://github.com/pignini/as/blob/master/CS50/week%205)
+      -[week 5筆記](https://github.com/pignini/as/blob/master/CS50/week%205.md)
 
-      -[week 7筆記](https://github.com/pignini/as/blob/master/CS50/week%207)
+      -[week 7筆記](https://github.com/pignini/as/blob/master/CS50/week%207.md)
 
-      -[week 8筆記](https://github.com/pignini/as/blob/master/CS50/week%208)
+      -[week 8筆記](https://github.com/pignini/as/blob/master/CS50/week%208.md)
  
  ### 作業
 
