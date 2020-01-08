@@ -11,27 +11,27 @@
 
 # week 3 
 
-- Monday(https://www.youtube.com/watch?v=xqhcVALTw54)
+[Monday](https://www.youtube.com/watch?v=xqhcVALTw54)
 
-- Wednesday(https://www.youtube.com/watch?v=YxgI7ll4Xtg)
+[Wednesday](https://www.youtube.com/watch?v=YxgI7ll4Xtg)
 
 # week 4 
-- Monday(https://www.youtube.com/watch?v=8IZ9r5kmS3Y)
+[Monday](https://www.youtube.com/watch?v=8IZ9r5kmS3Y)
 
-- Wednesday(https://www.youtube.com/watch?v=lw1U7CvmjoU)
+[Wednesday](https://www.youtube.com/watch?v=lw1U7CvmjoU)
 
 
 # week 5 
-- Monday(http://www.youtube.com/watch?v=IEuvKVjw2oM)
+[Monday](http://www.youtube.com/watch?v=IEuvKVjw2oM)
 
-- Wednesday(http://www.youtube.com/watch?v=atBMLJdSKBo)
+[Wednesday](http://www.youtube.com/watch?v=atBMLJdSKBo)
 
 # week 7 
-- Monday(http://www.youtube.com/watch?v=RUAsmwYC2mc)
+[Monday](http://www.youtube.com/watch?v=RUAsmwYC2mc)
 
-- Wednesday(http://www.youtube.com/watch?v=QWnZpgZKOoc)
+[Wednesday](http://www.youtube.com/watch?v=QWnZpgZKOoc)
 
 # week 8
-- Monday(https://www.youtube.com/watch?v=9qvt6MwBKZQ)
+[Monday](https://www.youtube.com/watch?v=9qvt6MwBKZQ)
 
-- Wednesday(http://www.youtube.com/watch?v=ihmHDZKOkA8)
+[Wednesday](http://www.youtube.com/watch?v=ihmHDZKOkA8)
