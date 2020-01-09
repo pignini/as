@@ -55,12 +55,16 @@
  ### 作業
 
  * [作業1](https://github.com/pignini/as/tree/master/HW1)
+ 
+      -[作業1內容說明](https://github.com/pignini/as/blob/master/HW1/README.md)
      
       -[Quick Sort程式碼](https://github.com/pignini/as/blob/master/HW1/quicksort.py)
       
       -[Quick Sort學習歷程](https://github.com/pignini/as/blob/master/HW1/Quick%20%20Sort學習歷程.md)
       
  * [作業2](https://github.com/pignini/as/tree/master/HW2)
+ 
+      -[作業2內容說明](https://github.com/pignini/as/blob/master/HW2/README.md)
  
       -[Heap Sort程式碼](https://github.com/pignini/as/blob/master/HW2/heap_sort_06170129.py)
       
@@ -74,6 +78,8 @@
       
  * [作業3](https://github.com/pignini/as/tree/master/HW3)
  
+      -[作業3內容說明](https://github.com/pignini/as/blob/master/HW3/README.md)
+ 
       -[Binary Search Tree程式碼](https://github.com/pignini/as/blob/master/HW3/binary_search_tree_06170129.py)
       
       -[Binary Search Tree流程圖、學習歷程與BST原理](https://github.com/pignini/as/blob/master/HW3/Binary%20Search%20Tree流程圖、學習歷程與BST原理.md)
@@ -81,19 +87,25 @@
       -[Binary Search Tree新增、刪除、查詢、修改功能說明](https://github.com/pignini/as/blob/master/HW3/Binary%20Search%20Tree新增、刪除、查詢、修改功能說明.md)
 
  * [作業4](https://github.com/pignini/as/tree/master/HW4)
- 
+
+      -[作業4內容說明](https://github.com/pignini/as/blob/master/HW4/README.md)
+      
       -[Hash Table程式碼](https://github.com/pignini/as/blob/master/HW4/hash_table_06170129.py)
       
       -[Hash Table流程圖、學習歷程與Hash Table 與Hash function原理](https://github.com/pignini/as/blob/master/HW4/Hash%20Table流程圖、學習歷程與Hash%20Table%20與Hash%20function原理.md)
 
  * [作業5](https://github.com/pignini/as/tree/master/HW5)
  
+      -[作業5內容說明](https://github.com/pignini/as/blob/master/HW5/README.md)
+ 
       -[BFS與DFS程式碼](https://github.com/pignini/as/blob/master/HW5/BFS_06170129.py)
       
       -[BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較](https://github.com/pignini/as/blob/master/HW5/BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較.md)
 
  * [作業6](https://github.com/pignini/as/tree/master/HW6)
- 
+
+      -[作業6內容說明](https://github.com/pignini/as/blob/master/HW6/README.md)
+      
       -[Dijkstra與Kruskal程式碼](https://github.com/pignini/as/blob/master/HW6/Dijkstra_06170129.py)
       
       -[Dijkstra與Kruskal流程圖、程式碼學習歷程與Dijkstra與Kruskal原理說明](https://github.com/pignini/as/blob/master/HW6/Dijkstra與Kruskal流程圖、程式碼學習歷程與Dijkstra與Kruskal原理說明.md)
