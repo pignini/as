@@ -6,3 +6,11 @@
       -[Binary Search Tree流程圖、學習歷程與BST原理](https://github.com/pignini/as/blob/master/HW3/Binary%20Search%20Tree流程圖、學習歷程與BST原理.md)
       
       -[Binary Search Tree新增、刪除、查詢、修改功能說明](https://github.com/pignini/as/blob/master/HW3/Binary%20Search%20Tree新增、刪除、查詢、修改功能說明.md)
+
+## Binary Search Tree
+
+ 
+![](/image/Binary%20Search%20Tree.png)
+![](/image/Binary%20Search%20Tree2.png)
+
+————————————————————
